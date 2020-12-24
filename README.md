@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name Is Namirah. You can call me 👽 Alien
 - 💬 Best place to reach me: [Twitter](https://twitter.com/aLiEnFrOmMaRsy)
 - 😄 Pronouns:👩 she/her 
-- 🔭 I’m currently working on : Grocerycheck (https://grocerycheck.ga/)
+- 🔭 I’m currently working on : [Grocerycheck](https://grocerycheck.ga/)
 - 🌱 I’m currently learning : C++ and C#
 
 <br>

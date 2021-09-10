@@ -1,8 +1,8 @@
 ### Hi there 👋, My Name Is Namirah. You can call me 👽 Alien
-- 💬 Best place to reach me: [Twitter](https://twitter.com/aLiEnFrOmMaRsy)
+- 💬 Best place to reach me: Discord (Alien#9043)
 - 😄 Pronouns:👩 she/her 
-- 🔭 I’m currently working on : [Grocerycheck](https://grocerycheck.ga/)
-- 🌱 I’m currently learning : C++, C# and GDScript
+- 🔭 I’m currently working on : [The Homo Sapiens Blog](https://thehomosapblog.tk/)
+- 🌱 I’m currently learning : JS and GDScript
 
 <br>
 <a href="https://github.com/Namirah-Rahman">
